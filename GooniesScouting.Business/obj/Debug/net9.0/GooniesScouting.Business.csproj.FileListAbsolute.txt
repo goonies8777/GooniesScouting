@@ -1,0 +1,12 @@
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\GooniesScouting.Business.csproj.AssemblyReference.cache
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\GooniesScouting.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\GooniesScouting.Business.AssemblyInfoInputs.cache
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\GooniesScouting.Business.AssemblyInfo.cs
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\GooniesScouting.Business.csproj.CoreCompileInputs.cache
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\bin\Debug\net9.0\GooniesScouting.Business.deps.json
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\bin\Debug\net9.0\GooniesScouting.Business.dll
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\bin\Debug\net9.0\GooniesScouting.Business.pdb
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\GooniesScouting.Business.dll
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\refint\GooniesScouting.Business.dll
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\GooniesScouting.Business.pdb
+C:\Source\Goonies\GooniesScouting\GooniesScouting.Business\obj\Debug\net9.0\ref\GooniesScouting.Business.dll

@@ -1,0 +1,14 @@
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\bin\Debug\net9.0\GooniesScouting.ConsoleApp.exe
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\bin\Debug\net9.0\GooniesScouting.ConsoleApp.deps.json
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\bin\Debug\net9.0\GooniesScouting.ConsoleApp.runtimeconfig.json
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\bin\Debug\net9.0\GooniesScouting.ConsoleApp.dll
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\bin\Debug\net9.0\GooniesScouting.ConsoleApp.pdb
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\GooniesScouting.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\GooniesScouting.ConsoleApp.AssemblyInfoInputs.cache
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\GooniesScouting.ConsoleApp.AssemblyInfo.cs
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\GooniesScouting.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\GooniesScouting.ConsoleApp.dll
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\refint\GooniesScouting.ConsoleApp.dll
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\GooniesScouting.ConsoleApp.pdb
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\GooniesScouting.ConsoleApp.genruntimeconfig.cache
+C:\Source\Goonies\GooniesScouting\GooniesScouting.ConsoleApp\obj\Debug\net9.0\ref\GooniesScouting.ConsoleApp.dll
