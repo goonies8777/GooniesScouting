@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GooniesScouting.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a771de4bc550f5ceb4be709e35509beb8f35910")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e70cf3ea5ae7a6a9540a8b86835f1053f08d45e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GooniesScouting.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GooniesScouting.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

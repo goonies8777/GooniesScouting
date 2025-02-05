@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AyRpxcsnJng=",
+  "dgSpecHash": "kmLuVEgg0xY=",
   "success": true,
   "projectFilePath": "/home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/GooniesScouting.ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/sesmar/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/sesmar/.nuget/packages/restsharp/112.1.0/restsharp.112.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

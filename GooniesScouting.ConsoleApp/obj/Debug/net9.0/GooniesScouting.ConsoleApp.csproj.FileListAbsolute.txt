@@ -27,3 +27,9 @@ C:/Source/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/obj/Debug/net9.0/re
 /home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/obj/Debug/net9.0/GooniesScouting.ConsoleApp.pdb
 /home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/obj/Debug/net9.0/GooniesScouting.ConsoleApp.genruntimeconfig.cache
 /home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/obj/Debug/net9.0/ref/GooniesScouting.ConsoleApp.dll
+/home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/bin/Debug/net9.0/RestSharp.dll
+/home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/bin/Debug/net9.0/GooniesScouting.Business.dll
+/home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/bin/Debug/net9.0/GooniesScouting.Business.pdb
+/home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/obj/Debug/net9.0/GooniesScouting.ConsoleApp.csproj.AssemblyReference.cache
+/home/sesmar/Documents/Projects/Goonies/GooniesScouting/GooniesScouting.ConsoleApp/obj/Debug/net9.0/GooniesS.0BE6CC52.Up2Date
