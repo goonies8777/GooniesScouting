@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GooniesScouting.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e70cf3ea5ae7a6a9540a8b86835f1053f08d45e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4ca1eacb72d496695b7b4932fdeb23b35f4dde")]
 [assembly: System.Reflection.AssemblyProductAttribute("GooniesScouting.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GooniesScouting.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
